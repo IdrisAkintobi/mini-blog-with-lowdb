@@ -1,0 +1,12 @@
+repoOwner: Create-Inc-Candidates
+learnMoreLink: https://create.xyz
+config:
+  version: 1.0.0
+projectName: Coding Assessment IdrisAkintobi
+abbreviatedProjectName: codingAssessmentIdrisAkintobi
+repoName: coding-assessment-idrisakintobi
+environments: []
+stack:
+  - features: []
+    kind: BackendTakehome
+    path: .
