@@ -12,18 +12,16 @@
 
 # Instructions
 
-## Task
+A REST api that powers a simple blog.
 
-You are tasked with building a publicly facing REST api that powers a simple blog.
-Requirements:
+## User story
 
-1. Users should be able to sign up and sign in. They should be able to pass a username and password. It's ok to store the password in plain text for this exercise, but you should validate the password.
-1. You should persist data either in memory (e.g. objects and arrays, or with a persistent file storage like [lowdb](https://github.com/typicode/lowdb))
+1. Users should be able to sign up and sign in. They should be able to pass a username and password.
+1. Data is persisted data either in memory a persistent file storage [lowdb](https://github.com/typicode/lowdb))
 1. Signed-in users should be able to create a new blog post. Blog posts should be, by default, not visible.
 1. Signed-in users should be able to "publish" their blog post.
 1. Signed-out users should be able to see all published blog posts.
 1. Signed-in users should be able to leave comments on blog posts.
-1. Time-permitting, test the API manually or add automated tests.
 
 ### Running the API
 

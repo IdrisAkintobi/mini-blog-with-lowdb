@@ -1,12 +1,12 @@
-repoOwner: Create-Inc-Candidates
-learnMoreLink: https://create.xyz
+repoOwner: Idris-Akintobi
+learnMoreLink: https://idrisakintobi.tech
 config:
   version: 1.0.0
-projectName: Coding Assessment IdrisAkintobi
-abbreviatedProjectName: codingAssessmentIdrisAkintobi
-repoName: coding-assessment-idrisakintobi
+projectName: Mini blog
+abbreviatedProjectName: mini-blog
+repoName: mini-blog-with-lowdb
 environments: []
 stack:
   - features: []
-    kind: BackendTakehome
+    kind: Backend
     path: .
